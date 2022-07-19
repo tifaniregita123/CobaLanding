@@ -4,7 +4,6 @@ body {
 
 .jumbotron img {
     width: 25%;
-    color: #fff;
 }
 
 section {
@@ -14,4 +13,7 @@ section {
 footer {
     min-height: 50px;
     padding-top:12px;
+}
+.jumbotron{
+    color: #fff;
 }
